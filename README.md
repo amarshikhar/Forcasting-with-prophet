@@ -39,7 +39,7 @@ A2C and page view conversion seems stagnant. But our DAU, daily active users has
 
 But more daily active users doesn't lead to page view conversion or A2C conversion. We need to solve this issue. 
 Since, page view conversion is highly related to A2C conversion. We need to increase our page view conversion.
-This will lead to overall conversion increase.
+This will lead to overall conversion increase. 
 
 
 
