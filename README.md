@@ -32,7 +32,7 @@ To solve it I created a new column named net new install rate_1
 
 Our correlation plot is as follows:
 
-[Screen Shot 2022-12-11 at 2.05.42 PM.png](Screen Shot 2022-12-11 at 2.05.42 PM.png)
+![Screen Shot 2022-12-11 at 2.05.42 PM.png](Screen Shot 2022-12-11 at 2.05.42 PM.png)
 
 As our week progressed, net new installs increased, but overall conversion has dipped. 
 A2C and page view conversion seems stagnant. But our DAU, daily active users has increased.
