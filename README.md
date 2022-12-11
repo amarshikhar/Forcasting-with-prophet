@@ -22,13 +22,13 @@ We use regression plot and see that our overall conversion has dipped.
 
 ![reg.png](reg)
 
-#Discrepency in data
+# Discrepency in data
 
 Randoml sampling revealed that net new installs column is wrong. My best assumption is that it should be new installs subtracted by uninstalls. But the number was not matching with the net installs column in the excel.
 
 To solve it I created a new column named net new install rate_1
 
-#Insights
+# Insights
 
 Our correlation plot is as follows:
 
