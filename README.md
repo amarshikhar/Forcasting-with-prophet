@@ -2,7 +2,7 @@
 
 We use python prophet library for forcasting. We use Date, and net install as dataframe input into prophet. We convert required column name to 'ds' and 'y'. Then we fit the model and made future prediction.
 
-The plot is as follows:
+The plot is as follows
 
 ![Screen Shot 2022-12-11 at 1.41.10 PM.png](Screen Shot 2022-12-11 at 1.41.10 PM.png)
 
